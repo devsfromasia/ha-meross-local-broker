@@ -9,3 +9,4 @@ labels:
   org.opencontainers.image.description: "Implements Meross cloud services locally."
   org.opencontainers.image.licenses: "Apache License 2.0"
   org.opencontainers.image.source: "https://github.com/devsfromasia/ha-meross-local-broker"
+  fork: true
