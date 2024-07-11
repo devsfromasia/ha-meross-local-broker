@@ -5,7 +5,7 @@ build_from:
   armv7: "ghcr.io/home-assistant/armv7-base-debian:buster"
   i386: "ghcr.io/home-assistant/i386-base-debian:buster"
 labels:
-  org.opencontainers.image.title: "Home Assistant Add-on: Meross Local"
+  org.opencontainers.image.title: "Home Assistant Add-on: Meross Local (fork)"
   org.opencontainers.image.description: "Implements Meross cloud services locally."
   org.opencontainers.image.licenses: "Apache License 2.0"
   org.opencontainers.image.source: "https://github.com/devsfromasia/ha-meross-local-broker"
